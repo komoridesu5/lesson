@@ -70,4 +70,23 @@ header {
   font-family: fantasy;
   width: 185px;
   display: block;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 20px;
+  border-radius: 50px;
+  border: 3px aqua;
+}
+
+.btn a:hover {
+  text-decoration: none;
+  background-color: #ffffff;
+  color: aqua;
+}
+
+#index {
+  background-image: url(../images/seiko.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
 }
