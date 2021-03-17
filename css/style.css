@@ -49,3 +49,25 @@ header {
   width: 960px;
   margin: 0 auto;
 }
+
+#index h1 {
+  font-size: 100px;
+  color: #ffffff;
+  font-family: fantasy;
+  line-height: 1;
+  margin-bottom: 50px;
+}
+
+#index p {
+  font-size: 16px;
+  color: cyan;
+}
+
+.btn a {
+  background-color: aqua;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: fantasy;
+  width: 185px;
+  display: block;
+}
