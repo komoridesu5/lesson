@@ -56,7 +56,10 @@ header {
   font-family: fantasy;
   line-height: 1;
   margin-bottom: 50px;
-  margin-top: 50px;
+}
+
+#index .content {
+  margin-top: 150px;
 }
 
 #index p {
